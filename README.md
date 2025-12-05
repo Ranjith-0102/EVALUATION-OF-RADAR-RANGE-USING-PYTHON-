@@ -106,9 +106,9 @@ ylabel("Gain");
 ![WhatsApp Image 2025-11-29 at 14 11 29_7d05ffc4](https://github.com/user-attachments/assets/d7304251-f500-4ed6-82fb-f13c6b4fa42b)
 
 
-
  # __Result__:
-   
+   <img width="1026" height="632" alt="image" src="https://github.com/user-attachments/assets/e909a6ba-ae76-4869-9bcd-cc244310e9e2" />
+
 The maximum range of the radar system was successfully calculated using Python. By providing the required radar parameters and executing the radar range function, the program produced the correct maximum detectable range value. Thus, the radar range evaluation using Python was completed and verified.
 
 
